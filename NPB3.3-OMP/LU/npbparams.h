@@ -1,4 +1,4 @@
-c CLASS = S
+c CLASS = A
 c  
 c  
 c  This file is generated automatically by the setparams utility.
@@ -8,13 +8,13 @@ c
 
 c full problem size
         integer isiz1, isiz2, isiz3
-        parameter (isiz1=12, isiz2=12, isiz3=12)
+        parameter (isiz1=64, isiz2=64, isiz3=64)
 
 c number of iterations and how often to print the norm
         integer itmax_default, inorm_default
-        parameter (itmax_default=50, inorm_default=50)
+        parameter (itmax_default=250, inorm_default=250)
         double precision dt_default
-        parameter (dt_default = 0.5d0)
+        parameter (dt_default = 2.0d0)
         logical  convertdouble
         parameter (convertdouble = .false.)
         character compiletime*11

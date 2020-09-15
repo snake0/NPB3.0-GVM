@@ -1,0 +1,1410 @@
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - BT Benchmark
+
+ No input file inputbt.data. Using compiled defaults
+ Size:   64x  64x  64
+ Iterations:  200       dt:   0.0008000
+ Number of available threads:    16
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class A
+ accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1 0.1080634671464E+03 0.1080634671464E+03 0.6969749535109E-14
+           2 0.1131973090122E+02 0.1131973090122E+02 0.1569257127136E-15
+           3 0.2597435451158E+02 0.2597435451158E+02 0.3145888171195E-14
+           4 0.2366562254468E+02 0.2366562254468E+02 0.8256670703047E-14
+           5 0.2527896321175E+03 0.2527896321175E+03 0.1371673561714E-13
+ Comparison of RMS-norms of solution error
+           1 0.4234841604053E+01 0.4234841604053E+01 0.1258387211720E-14
+           2 0.4439028249700E+00 0.4439028249700E+00 0.6127571750677E-14
+           3 0.9669248013635E+00 0.9669248013635E+00 0.9185599732758E-15
+           4 0.8830206303977E+00 0.8830206303977E+00 0.1508761611776E-14
+           5 0.9737990177083E+01 0.9737990177083E+01 0.4925208774258E-14
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      200
+ Time in seconds =                   102.35
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                  1644.17
+ Mop/s/thread    =                   102.76
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - BT Benchmark
+
+ No input file inputbt.data. Using compiled defaults
+ Size:   64x  64x  64
+ Iterations:  200       dt:   0.0008000
+ Number of available threads:    16
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class A
+ accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1 0.1080634671464E+03 0.1080634671464E+03 0.6969749535109E-14
+           2 0.1131973090122E+02 0.1131973090122E+02 0.1569257127136E-15
+           3 0.2597435451158E+02 0.2597435451158E+02 0.3145888171195E-14
+           4 0.2366562254468E+02 0.2366562254468E+02 0.8406791988557E-14
+           5 0.2527896321175E+03 0.2527896321175E+03 0.1382916787630E-13
+ Comparison of RMS-norms of solution error
+           1 0.4234841604053E+01 0.4234841604053E+01 0.1258387211720E-14
+           2 0.4439028249700E+00 0.4439028249700E+00 0.6252624235385E-14
+           3 0.9669248013635E+00 0.9669248013635E+00 0.9185599732758E-15
+           4 0.8830206303977E+00 0.8830206303977E+00 0.1508761611776E-14
+           5 0.9737990177083E+01 0.9737990177083E+01 0.4925208774258E-14
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      200
+ Time in seconds =                    97.98
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                  1717.61
+ Mop/s/thread    =                   107.35
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - BT Benchmark
+
+ No input file inputbt.data. Using compiled defaults
+ Size:   64x  64x  64
+ Iterations:  200       dt:   0.0008000
+ Number of available threads:    16
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class A
+ accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1 0.1080634671464E+03 0.1080634671464E+03 0.6969749535109E-14
+           2 0.1131973090122E+02 0.1131973090122E+02 0.3138514254272E-15
+           3 0.2597435451158E+02 0.2597435451158E+02 0.3145888171195E-14
+           4 0.2366562254468E+02 0.2366562254468E+02 0.8406791988557E-14
+           5 0.2527896321175E+03 0.2527896321175E+03 0.1371673561714E-13
+ Comparison of RMS-norms of solution error
+           1 0.4234841604053E+01 0.4234841604053E+01 0.1048656009767E-14
+           2 0.4439028249700E+00 0.4439028249700E+00 0.6127571750677E-14
+           3 0.9669248013635E+00 0.9669248013635E+00 0.8037399766163E-15
+           4 0.8830206303977E+00 0.8830206303977E+00 0.1508761611776E-14
+           5 0.9737990177083E+01 0.9737990177083E+01 0.4925208774258E-14
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      200
+ Time in seconds =                    99.72
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                  1687.65
+ Mop/s/thread    =                   105.48
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - BT Benchmark
+
+ No input file inputbt.data. Using compiled defaults
+ Size:   64x  64x  64
+ Iterations:  200       dt:   0.0008000
+ Number of available threads:    16
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class A
+ accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1 0.1080634671464E+03 0.1080634671464E+03 0.6969749535109E-14
+           2 0.1131973090122E+02 0.1131973090122E+02 0.1569257127136E-15
+           3 0.2597435451158E+02 0.2597435451158E+02 0.3145888171195E-14
+           4 0.2366562254468E+02 0.2366562254468E+02 0.8406791988557E-14
+           5 0.2527896321175E+03 0.2527896321175E+03 0.1382916787630E-13
+ Comparison of RMS-norms of solution error
+           1 0.4234841604053E+01 0.4234841604053E+01 0.1258387211720E-14
+           2 0.4439028249700E+00 0.4439028249700E+00 0.6252624235385E-14
+           3 0.9669248013635E+00 0.9669248013635E+00 0.8037399766163E-15
+           4 0.8830206303977E+00 0.8830206303977E+00 0.1508761611776E-14
+           5 0.9737990177083E+01 0.9737990177083E+01 0.4925208774258E-14
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      200
+ Time in seconds =                    95.50
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                  1762.22
+ Mop/s/thread    =                   110.14
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - BT Benchmark
+
+ No input file inputbt.data. Using compiled defaults
+ Size:   64x  64x  64
+ Iterations:  200       dt:   0.0008000
+ Number of available threads:    16
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class A
+ accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1 0.1080634671464E+03 0.1080634671464E+03 0.6969749535109E-14
+           2 0.1131973090122E+02 0.1131973090122E+02 0.1569257127136E-15
+           3 0.2597435451158E+02 0.2597435451158E+02 0.3145888171195E-14
+           4 0.2366562254468E+02 0.2366562254468E+02 0.8256670703047E-14
+           5 0.2527896321175E+03 0.2527896321175E+03 0.1371673561714E-13
+ Comparison of RMS-norms of solution error
+           1 0.4234841604053E+01 0.4234841604053E+01 0.1258387211720E-14
+           2 0.4439028249700E+00 0.4439028249700E+00 0.6252624235385E-14
+           3 0.9669248013635E+00 0.9669248013635E+00 0.9185599732758E-15
+           4 0.8830206303977E+00 0.8830206303977E+00 0.1508761611776E-14
+           5 0.9737990177083E+01 0.9737990177083E+01 0.4925208774258E-14
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      200
+ Time in seconds =                   136.67
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                  1231.34
+ Mop/s/thread    =                    76.96
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - BT Benchmark
+
+ No input file inputbt.data. Using compiled defaults
+ Size:   64x  64x  64
+ Iterations:  200       dt:   0.0008000
+ Number of available threads:    16
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Verification being performed for class A
+ accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1 0.1080634671464E+03 0.1080634671464E+03 0.6969749535109E-14
+           2 0.1131973090122E+02 0.1131973090122E+02 0.1569257127136E-15
+           3 0.2597435451158E+02 0.2597435451158E+02 0.3145888171195E-14
+           4 0.2366562254468E+02 0.2366562254468E+02 0.8406791988557E-14
+           5 0.2527896321175E+03 0.2527896321175E+03 0.1382916787630E-13
+ Comparison of RMS-norms of solution error
+           1 0.4234841604053E+01 0.4234841604053E+01 0.1258387211720E-14
+           2 0.4439028249700E+00 0.4439028249700E+00 0.6127571750677E-14
+           3 0.9669248013635E+00 0.9669248013635E+00 0.9185599732758E-15
+           4 0.8830206303977E+00 0.8830206303977E+00 0.1508761611776E-14
+           5 0.9737990177083E+01 0.9737990177083E+01 0.5107623914045E-14
+ Verification Successful
+
+
+ BT Benchmark Completed.
+ Class           =                        A
+ Size            =             64x  64x  64
+ Iterations      =                      200
+ Time in seconds =                   135.25
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                  1244.26
+ Mop/s/thread    =                    77.77
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - CG Benchmark
+
+ Size:       14000
+ Iterations:                     15
+ Number of available threads:    16
+
+ Initialization time =           3.356 seconds
+
+   iteration           ||r||                 zeta
+        1       0.26074766594757E-12    19.9997581277040
+        2       0.25628721465791E-14    17.1140495745506
+        3       0.25353499570487E-14    17.1296668946143
+        4       0.25569087738747E-14    17.1302113581192
+        5       0.25303928486207E-14    17.1302338856353
+        6       0.25302461771805E-14    17.1302349879482
+        7       0.24909564974716E-14    17.1302350498916
+        8       0.24892398471206E-14    17.1302350537510
+        9       0.24343894587034E-14    17.1302350540101
+       10       0.24863707360204E-14    17.1302350540284
+       11       0.24294380490670E-14    17.1302350540298
+       12       0.24231680732803E-14    17.1302350540299
+       13       0.24015482386283E-14    17.1302350540299
+       14       0.24190609447376E-14    17.1302350540299
+       15       0.23599683991613E-14    17.1302350540299
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.1713023505403E+02
+ Error is    0.5226337199892E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        A
+ Size            =                    14000
+ Iterations      =                       15
+ Time in seconds =                    21.44
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                    69.80
+ Mop/s/thread    =                     4.36
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - CG Benchmark
+
+ Size:       14000
+ Iterations:                     15
+ Number of available threads:    16
+
+ Initialization time =           3.752 seconds
+
+   iteration           ||r||                 zeta
+        1       0.26115185550469E-12    19.9997581277040
+        2       0.25760340806475E-14    17.1140495745506
+        3       0.25591143070281E-14    17.1296668946143
+        4       0.25518949937808E-14    17.1302113581192
+        5       0.25096165746621E-14    17.1302338856353
+        6       0.25240453474485E-14    17.1302349879482
+        7       0.24961552734321E-14    17.1302350498916
+        8       0.24915918928872E-14    17.1302350537510
+        9       0.24572216699207E-14    17.1302350540101
+       10       0.24893584756157E-14    17.1302350540284
+       11       0.24316738339294E-14    17.1302350540298
+       12       0.24277784718117E-14    17.1302350540299
+       13       0.23900291227633E-14    17.1302350540299
+       14       0.24305628536431E-14    17.1302350540299
+       15       0.23527102542538E-14    17.1302350540299
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.1713023505403E+02
+ Error is    0.5205597766559E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        A
+ Size            =                    14000
+ Iterations      =                       15
+ Time in seconds =                    22.78
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                    65.69
+ Mop/s/thread    =                     4.11
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - CG Benchmark
+
+ Size:       14000
+ Iterations:                     15
+ Number of available threads:    16
+
+ Initialization time =           3.362 seconds
+
+   iteration           ||r||                 zeta
+        1       0.26089974151364E-12    19.9997581277040
+        2       0.25905580310494E-14    17.1140495745506
+        3       0.25376367363436E-14    17.1296668946143
+        4       0.25523496394553E-14    17.1302113581192
+        5       0.25058075104330E-14    17.1302338856353
+        6       0.25610486534291E-14    17.1302349879482
+        7       0.25097013119218E-14    17.1302350498916
+        8       0.24971318087151E-14    17.1302350537510
+        9       0.24423144421057E-14    17.1302350540101
+       10       0.25013020896949E-14    17.1302350540284
+       11       0.24307390930928E-14    17.1302350540298
+       12       0.24428857083524E-14    17.1302350540299
+       13       0.24207099523519E-14    17.1302350540299
+       14       0.24293971001219E-14    17.1302350540299
+       15       0.23832988049975E-14    17.1302350540299
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.1713023505403E+02
+ Error is    0.5205597766559E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        A
+ Size            =                    14000
+ Iterations      =                       15
+ Time in seconds =                    22.81
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                    65.60
+ Mop/s/thread    =                     4.10
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - CG Benchmark
+
+ Size:       14000
+ Iterations:                     15
+ Number of available threads:    16
+
+ Initialization time =           3.701 seconds
+
+   iteration           ||r||                 zeta
+        1       0.26102646643283E-12    19.9997581277040
+        2       0.25759971367632E-14    17.1140495745506
+        3       0.25438330892047E-14    17.1296668946143
+        4       0.25448089382729E-14    17.1302113581192
+        5       0.24926347476379E-14    17.1302338856353
+        6       0.25225786173966E-14    17.1302349879482
+        7       0.25255524628738E-14    17.1302350498916
+        8       0.24899354117984E-14    17.1302350537510
+        9       0.24907529100071E-14    17.1302350540101
+       10       0.24915584401953E-14    17.1302350540284
+       11       0.24712751968011E-14    17.1302350540298
+       12       0.24453828202996E-14    17.1302350540299
+       13       0.24071141856594E-14    17.1302350540299
+       14       0.24164062688649E-14    17.1302350540299
+       15       0.23725410307332E-14    17.1302350540299
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.1713023505403E+02
+ Error is    0.5205597766559E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        A
+ Size            =                    14000
+ Iterations      =                       15
+ Time in seconds =                    22.00
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                    68.02
+ Mop/s/thread    =                     4.25
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - CG Benchmark
+
+ Size:       14000
+ Iterations:                     15
+ Number of available threads:    16
+
+ Initialization time =           3.739 seconds
+
+   iteration           ||r||                 zeta
+        1       0.26034867225468E-12    19.9997581277040
+        2       0.25758214817881E-14    17.1140495745506
+        3       0.25383959789904E-14    17.1296668946143
+        4       0.25644677096242E-14    17.1302113581192
+        5       0.24972737621386E-14    17.1302338856353
+        6       0.25224876267075E-14    17.1302349879482
+        7       0.25019144321944E-14    17.1302350498916
+        8       0.24866965140948E-14    17.1302350537510
+        9       0.24691372391161E-14    17.1302350540101
+       10       0.25068924167874E-14    17.1302350540284
+       11       0.24414662953245E-14    17.1302350540298
+       12       0.24286231130245E-14    17.1302350540299
+       13       0.24172006158962E-14    17.1302350540299
+       14       0.24256735289723E-14    17.1302350540299
+       15       0.23788081348082E-14    17.1302350540299
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.1713023505403E+02
+ Error is    0.5205597766559E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        A
+ Size            =                    14000
+ Iterations      =                       15
+ Time in seconds =                    27.41
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                    54.60
+ Mop/s/thread    =                     3.41
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - CG Benchmark
+
+ Size:       14000
+ Iterations:                     15
+ Number of available threads:    16
+
+ Initialization time =           3.832 seconds
+
+   iteration           ||r||                 zeta
+        1       0.26021207260567E-12    19.9997581277040
+        2       0.25659518228726E-14    17.1140495745506
+        3       0.25314826895360E-14    17.1296668946143
+        4       0.25536910851365E-14    17.1302113581192
+        5       0.25024971207963E-14    17.1302338856353
+        6       0.25219489408217E-14    17.1302349879482
+        7       0.24988197465024E-14    17.1302350498916
+        8       0.24851783291801E-14    17.1302350537510
+        9       0.24516065291235E-14    17.1302350540101
+       10       0.24727801426194E-14    17.1302350540284
+       11       0.24689068634440E-14    17.1302350540298
+       12       0.24211491580553E-14    17.1302350540299
+       13       0.24126467845696E-14    17.1302350540299
+       14       0.24463722776858E-14    17.1302350540299
+       15       0.23811464246864E-14    17.1302350540299
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.1713023505403E+02
+ Error is    0.5205597766559E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        A
+ Size            =                    14000
+ Iterations      =                       15
+ Time in seconds =                    28.11
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                    53.23
+ Mop/s/thread    =                     3.33
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - EP Benchmark
+
+ Number of random numbers generated:       536870912
+ Number of available threads:                     16
+
+EP Benchmark Results:
+
+CPU Time =    1.5968
+N = 2^   28
+No. Gaussian Pairs =     210832767.
+Sums =    -4.295875165634033D+03   -1.580732573678527D+04
+Counts:
+  0      98257395.
+  1      93827014.
+  2      17611549.
+  3       1110028.
+  4         26536.
+  5           245.
+  6             0.
+  7             0.
+  8             0.
+  9             0.
+
+
+ EP Benchmark Completed.
+ Class           =                        A
+ Size            =                536870912
+ Iterations      =                        0
+ Time in seconds =                     1.60
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   336.22
+ Mop/s/thread    =                    21.01
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - EP Benchmark
+
+ Number of random numbers generated:       536870912
+ Number of available threads:                     16
+
+EP Benchmark Results:
+
+CPU Time =    1.5653
+N = 2^   28
+No. Gaussian Pairs =     210832767.
+Sums =    -4.295875165634032D+03   -1.580732573678527D+04
+Counts:
+  0      98257395.
+  1      93827014.
+  2      17611549.
+  3       1110028.
+  4         26536.
+  5           245.
+  6             0.
+  7             0.
+  8             0.
+  9             0.
+
+
+ EP Benchmark Completed.
+ Class           =                        A
+ Size            =                536870912
+ Iterations      =                        0
+ Time in seconds =                     1.57
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   342.98
+ Mop/s/thread    =                    21.44
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - EP Benchmark
+
+ Number of random numbers generated:       536870912
+ Number of available threads:                     16
+
+EP Benchmark Results:
+
+CPU Time =    1.5383
+N = 2^   28
+No. Gaussian Pairs =     210832767.
+Sums =    -4.295875165634029D+03   -1.580732573678527D+04
+Counts:
+  0      98257395.
+  1      93827014.
+  2      17611549.
+  3       1110028.
+  4         26536.
+  5           245.
+  6             0.
+  7             0.
+  8             0.
+  9             0.
+
+
+ EP Benchmark Completed.
+ Class           =                        A
+ Size            =                536870912
+ Iterations      =                        0
+ Time in seconds =                     1.54
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   349.00
+ Mop/s/thread    =                    21.81
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - EP Benchmark
+
+ Number of random numbers generated:       536870912
+ Number of available threads:                     16
+
+EP Benchmark Results:
+
+CPU Time =    1.8741
+N = 2^   28
+No. Gaussian Pairs =     210832767.
+Sums =    -4.295875165634032D+03   -1.580732573678527D+04
+Counts:
+  0      98257395.
+  1      93827014.
+  2      17611549.
+  3       1110028.
+  4         26536.
+  5           245.
+  6             0.
+  7             0.
+  8             0.
+  9             0.
+
+
+ EP Benchmark Completed.
+ Class           =                        A
+ Size            =                536870912
+ Iterations      =                        0
+ Time in seconds =                     1.87
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   286.47
+ Mop/s/thread    =                    17.90
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - EP Benchmark
+
+ Number of random numbers generated:       536870912
+ Number of available threads:                     16
+
+EP Benchmark Results:
+
+CPU Time =    4.0673
+N = 2^   28
+No. Gaussian Pairs =     210832767.
+Sums =    -4.295875165634033D+03   -1.580732573678527D+04
+Counts:
+  0      98257395.
+  1      93827014.
+  2      17611549.
+  3       1110028.
+  4         26536.
+  5           245.
+  6             0.
+  7             0.
+  8             0.
+  9             0.
+
+
+ EP Benchmark Completed.
+ Class           =                        A
+ Size            =                536870912
+ Iterations      =                        0
+ Time in seconds =                     4.07
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   132.00
+ Mop/s/thread    =                     8.25
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - EP Benchmark
+
+ Number of random numbers generated:       536870912
+ Number of available threads:                     16
+
+EP Benchmark Results:
+
+CPU Time =    1.4790
+N = 2^   28
+No. Gaussian Pairs =     210832767.
+Sums =    -4.295875165634031D+03   -1.580732573678527D+04
+Counts:
+  0      98257395.
+  1      93827014.
+  2      17611549.
+  3       1110028.
+  4         26536.
+  5           245.
+  6             0.
+  7             0.
+  8             0.
+  9             0.
+
+
+ EP Benchmark Completed.
+ Class           =                        A
+ Size            =                536870912
+ Iterations      =                        0
+ Time in seconds =                     1.48
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   362.99
+ Mop/s/thread    =                    22.69
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              15 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class A)
+ Iterations:                      4
+ Number of available threads:    16
+
+ Initialization time:          13.674 seconds
+
+  iter   1
+  iter   4
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.2433365309069E-05
+ Error is    0.1991081421370E-12
+
+
+ MG Benchmark Completed.
+ Class           =                        A
+ Size            =            256x 256x 256
+ Iterations      =                        4
+ Time in seconds =                     9.48
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   410.38
+ Mop/s/thread    =                    25.65
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class A)
+ Iterations:                      4
+ Number of available threads:    16
+
+ Initialization time:          11.997 seconds
+
+  iter   1
+  iter   4
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.2433365309069E-05
+ Error is    0.1991081421370E-12
+
+
+ MG Benchmark Completed.
+ Class           =                        A
+ Size            =            256x 256x 256
+ Iterations      =                        4
+ Time in seconds =                     8.23
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   472.69
+ Mop/s/thread    =                    29.54
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class A)
+ Iterations:                      4
+ Number of available threads:    16
+
+ Initialization time:          14.951 seconds
+
+  iter   1
+  iter   4
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.2433365309069E-05
+ Error is    0.1992821877158E-12
+
+
+ MG Benchmark Completed.
+ Class           =                        A
+ Size            =            256x 256x 256
+ Iterations      =                        4
+ Time in seconds =                     8.18
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   476.09
+ Mop/s/thread    =                    29.76
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class A)
+ Iterations:                      4
+ Number of available threads:    16
+
+ Initialization time:          11.357 seconds
+
+  iter   1
+  iter   4
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.2433365309069E-05
+ Error is    0.1991081421370E-12
+
+
+ MG Benchmark Completed.
+ Class           =                        A
+ Size            =            256x 256x 256
+ Iterations      =                        4
+ Time in seconds =                     7.84
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   496.63
+ Mop/s/thread    =                    31.04
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class A)
+ Iterations:                      4
+ Number of available threads:    16
+
+ Initialization time:           8.974 seconds
+
+  iter   1
+  iter   4
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.2433365309069E-05
+ Error is    0.1992821877158E-12
+
+
+ MG Benchmark Completed.
+ Class           =                        A
+ Size            =            256x 256x 256
+ Iterations      =                        4
+ Time in seconds =                    10.31
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   377.67
+ Mop/s/thread    =                    23.60
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class A)
+ Iterations:                      4
+ Number of available threads:    16
+
+ Initialization time:          12.146 seconds
+
+  iter   1
+  iter   4
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.2433365309069E-05
+ Error is    0.1992821877158E-12
+
+
+ MG Benchmark Completed.
+ Class           =                        A
+ Size            =            256x 256x 256
+ Iterations      =                        4
+ Time in seconds =                    20.50
+ Total threads   =                       16
+ Avail threads   =                       16
+ Mop/s total     =                   189.84
+ Mop/s/thread    =                    11.87
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              01 Sep 2020
+
+ Compile options:
+    F77          = gfortran
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fopenmp -mcmodel=medium
+    FLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randi8
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
